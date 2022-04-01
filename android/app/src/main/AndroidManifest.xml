@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.methodchannel_opencv">
+    package="com.example.method_channel_sample">
    <application
-        android:label="methodchannel_opencv"
+        android:label="method_channel_sample"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

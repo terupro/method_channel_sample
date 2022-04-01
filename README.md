@@ -1,4 +1,4 @@
-# methodchannel_opencv
+# method_channel_sample
 
 A new Flutter project.
 

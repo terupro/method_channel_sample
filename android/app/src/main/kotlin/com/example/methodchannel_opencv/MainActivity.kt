@@ -1,4 +1,4 @@
-package com.example.methodchannel_opencv
+package com.example.method_channel_sample
 
 import io.flutter.embedding.android.FlutterActivity
 

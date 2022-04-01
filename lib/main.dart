@@ -6,6 +6,7 @@ import 'package:flutter/services.dart';
 
 // Swiftで使える画像処理ライブラリ(OpenCV)をFlutterに読み込んでみた。
 // MethodChannel(ネイティブ(iOS/Android)のメソッドを非同期で呼び出す)を使用
+// 参考：https://github.com/r0227n/learn_flutter_app/tree/main/OpenCV/methodchannel_opencv
 
 void main() {
   runApp(const MyApp());
